@@ -9,12 +9,6 @@ This is a Python project made for my machine learning mini-project submission. I
 * `vocab.txt` - Text file containing the words learned from the training data.
 * `classes.txt` - Text file containing the job category list.
 
-## App Interface Preview
-Here is how the system looks and works when running in the browser:
-
-![Main Web Interface](screenshot1.png)
-
-*Note: You can replace 'screenshot1.png' with your actual web app image file name.*
 
 ## How to Set Up and Run This Project
 
